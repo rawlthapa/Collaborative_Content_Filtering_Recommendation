@@ -13,10 +13,10 @@ pip install -r requirements.txt
 How to Run
 Clone the repository.
 Navigate to the recommendation folder.
-Run the script:
+Open and run the Jupyter notebook:
 bash
 Copy code
-python src/collaborative_filtering.py
+jupyter notebook recommendation_system.ipynb
 
 License
 This project is licensed under the MIT License.
